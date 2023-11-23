@@ -89,35 +89,35 @@
         y: -120,
         width: 270,
         height: 85,
-        spriteUrl: "https://uploads-ssl.webflow.com/6511cf051ed1d8237a2b8095/655bb3aa0bb10c9e28fe853a_bubble.png"
+        spriteUrl: "bubble.png"
       },
       {
         x: containerWidth / 2 + 144,
         y: -115,
         width: 222,
         height: 85,
-        spriteUrl: "https://uploads-ssl.webflow.com/6511cf051ed1d8237a2b8095/655bb3aa2bd09d1f4682e66e_weweb.png"
+        spriteUrl: "weweb.png"
       },
       {
         x: containerWidth / 2 + 100,
         y: -115,
         width: 263,
         height: 85,
-        spriteUrl: "https://uploads-ssl.webflow.com/6511cf051ed1d8237a2b8095/655bb3aadc0dd1e448bd2554_stripe.png"
+        spriteUrl: "stripe.png"
       },
       {
         x: containerWidth / 2 - 125,
         y: -100,
         width: 263,
         height: 85,
-        spriteUrl: "https://uploads-ssl.webflow.com/6511cf051ed1d8237a2b8095/655bb3aa224e4d939b195ecc_hazura.png"
+        spriteUrl: "hazura.png"
       },
       {
         x: containerWidth / 2 - 174,
         y: -100,
         width: 267,
         height: 85,
-        spriteUrl: "https://uploads-ssl.webflow.com/6511cf051ed1d8237a2b8095/655bb3aabc226e7d721adbbe_make.png"
+        spriteUrl: "make.png"
       },
       {
         x: containerWidth / 2 + 174,
@@ -131,21 +131,21 @@
         y: -100,
         width: 265,
         height: 85,
-        spriteUrl: "https://uploads-ssl.webflow.com/6511cf051ed1d8237a2b8095/655bb3aa0bb10c9e28fe8537_codezoid.png"
+        spriteUrl: "codezoid.png"
       },
       {
         x: containerWidth / 2 - 104,
         y: -100,
         width: 275,
         height: 85,
-        spriteUrl: "https://uploads-ssl.webflow.com/6511cf051ed1d8237a2b8095/655bb5ed2d45306fa26e4366_xano.png"
+        spriteUrl: "xano.png"
       },
       {
         x: containerWidth / 2 - 135,
         y: -100,
         width: 275,
         height: 85,
-        spriteUrl: "https://uploads-ssl.webflow.com/6511cf051ed1d8237a2b8095/655bb63d874e6f02961cde3c_airtable.png"
+        spriteUrl: "airtable.png"
       },
       {
         x: containerWidth / 2 + 140,
