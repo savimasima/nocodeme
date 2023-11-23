@@ -1,3 +1,5 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/liabru/matter-attractors@gh-pages/build/matter-attractors.js"></script>
 
 <script>
   Matter.use('matter-attractors');
@@ -5,8 +7,14 @@
   var mouseConstraint;
 
   document.addEventListener('DOMContentLoaded', function () {
-    initSimulation();
-  });
+    try {
+        initSimulation();
+    } catch (error) {
+        console.error('Error in initSimulation:', error);
+    }
+});
+
+
 
   function isMobile() {
     return window.innerWidth <= 768;
