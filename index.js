@@ -1,5 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/liabru/matter-attractors@gh-pages/build/matter-attractors.js"></script>
 
 <script>
   Matter.use('matter-attractors');
